@@ -1,0 +1,6 @@
+{
+  "name": "Humayra AI",
+  "description": "Bengali AI Assistant chatbot featuring visual expressions, realistic audio Text-to-Speech narration, and a Facebook integration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
